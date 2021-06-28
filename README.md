@@ -1,16 +1,22 @@
-# calculator
+# CALCULADORA
 
-A new Flutter project.
+Projeto desenvolvido durante o curso de Flutter pela Raro Academy, com o objetivo de reproduzir uma calculadora com uma interface simples e operações básicas utilizando Flutter.
 
-## Getting Started
+![calculadora_operacao](https://user-images.githubusercontent.com/19718447/123571548-d5677b00-d7a0-11eb-81ed-f93cf5f52f39.png)    ![calculadora_resultado](https://user-images.githubusercontent.com/19718447/123571550-d7c9d500-d7a0-11eb-852e-cfea547ce2ec.png)
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Conceitos Aplicados
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* StatefullWidget
+* MaterialApp
+* setState
+* GrigView
+* gestureDetector
+
+## Referências
+
+[Documentação do Flutter](https://flutter.dev/docs)
